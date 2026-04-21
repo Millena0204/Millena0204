@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi there 👋 | Olá 👋
 
@@ -14,11 +13,11 @@
 ---
 
 ## 💡 Skills | Habilidades
-- Dedicated, hardworking, and eager to learn.  
-- Robotics and circuits.  
-
-- Esforçada, dedicada e com desejo de aprendizado.  
-- Robótica e circuitos.  
+| Português | English |
+|-----------|----------|
+| Esforçada, dedicada e com desejo de aprendizado | Dedicated, hardworking, and eager to learn |
+| Robótica e circuitos | Robotics and circuits |
+| Lógica de programação | Logic programming |
 
 ---
 
