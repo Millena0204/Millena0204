@@ -1,18 +1,18 @@
-# Olá, sou a Millena Pavanelli 👋
+# Olá, sou a Millena Pavanelli 
 
 ---
 
 ## 🎓 Sobre mim
-- 🔭 Estou atualmente estudando **Análise e Desenvolvimento de Sistemas**, uma paixão que descobri após minha formação na ETEC.  
-- 🌱 Aprendendo sobre **lógica de programação**, **Git/GitHub** e outras ferramentas.  
-- 👯 Meu objetivo é alcançar grandes conquistas na vida e crescer como pessoa e desenvolvedora, em um ambiente de trabalho agradável e estimulante.  
+- Estou atualmente estudando **Análise e Desenvolvimento de Sistemas**, uma paixão que descobri após minha formação na ETEC.  
+- Aprendendo sobre **lógica de programação**, **Git/GitHub** e outras ferramentas.  
+- Meu objetivo é alcançar grandes conquistas na vida e crescer como pessoa e desenvolvedora, em um ambiente de trabalho agradável e estimulante.  
 
 ---
 
 ## 🎓 About me
-- 🔭 I am currently studying **Analysis and Systems Development**, a passion I discovered after my training at ETEC.  
-- 🌱 Learning about **logic programming**, **Git/GitHub**, and other tools.  
-- 👯 My goal is to achieve great accomplishments in life and grow as a person and developer, in a pleasant and stimulating work environment.  
+- I am currently studying **Analysis and Systems Development**, a passion I discovered after my training at ETEC.  
+- Learning about **logic programming**, **Git/GitHub**, and other tools.  
+- My goal is to achieve great accomplishments in life and grow as a person and developer, in a pleasant and stimulating work environment.  
 
 ---
 
