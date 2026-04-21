@@ -1,16 +1,11 @@
-# 👋 Olá, sou a Millena Pavanelli  
-
-<div align="right">
-  <!-- Ajuste o caminho da imagem conforme onde você salvar -->
-  <img src="https://raw.githubusercontent.com/Millena0204/Millena0204/main/assets/dragon-laptop.png" width="150"/>
-</div>
+# Olá, sou a Millena Pavanelli 👋
 
 ---
 
 ## 🎓 Sobre mim
-- 🔭 Atualmente estudando **Análise e Desenvolvimento de Sistemas**, paixão que descobri após minha formação na ETEC.  
+- 🔭 Estou atualmente estudando **Análise e Desenvolvimento de Sistemas**, uma paixão que descobri após minha formação na ETEC.  
 - 🌱 Aprendendo sobre **lógica de programação**, **Git/GitHub** e outras ferramentas.  
-- 👯 Busco grandes conquistas na vida e crescimento como pessoa e desenvolvedora, em um ambiente agradável e estimulante.  
+- 👯 Meu objetivo é alcançar grandes conquistas na vida e crescer como pessoa e desenvolvedora, em um ambiente de trabalho agradável e estimulante.  
 
 ---
 
@@ -22,20 +17,16 @@
 ---
 
 ## 🛠️ Tecnologias | Technologies
-<div align="center">
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
 
 ---
 
 ## 💡 Skills | Habilidades
 
-| 🇧🇷 Português | 🇺🇸 English |
-|--------------|-------------|
+| Português | English |
+|-----------|----------|
 | Esforçada, dedicada e com desejo de aprendizado | Dedicated, hardworking, and eager to learn |
 | Robótica e circuitos | Robotics and circuits |
 | Lógica de programação | Logic programming |
@@ -52,23 +43,22 @@
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/Millena0204">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Millena0204&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millena0204&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Millena0204&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millena0204&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Millena0204&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Millena0204&theme=dracula" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🌐 Contato | Contact
-<div align="center">
+<div align="left">
 
-📧 **Email:** [m.pavanelli@aluno.ifsp.edu.br](mailto:m.pavanelli@aluno.ifsp.edu.br)  
-🐙 **GitHub:** [Millena0204](https://github.com/Millena0204)  
+📧 **Email:** m.pavavelli@aluno.ifsp.edu.br  
+🐙 **GitHub:** https://github.com/Millena0204  
 
 </div>
-
 
