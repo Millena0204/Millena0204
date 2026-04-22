@@ -34,7 +34,8 @@
 ---
 
 ## 📂 Projetos | Projects
-- **Lógica de Programação** | **Logic Programming**  
+- **Lógica de Programação** | **Logic Programming**
+👉 [Repositório SPOLOG](https://github.com/Millena0204/L-gica-de-Programa-o.git)
 - **Práticas e Ferramentas de Desenvolvimento de Software** | **Software Development Practices and Tools**  
 👉 [Repositório SPOPFDS](https://github.com/Millena0204/SPOPFDS)
 
